@@ -8,3 +8,4 @@ DATA CLEANING STEPS:1.Checked for missing values and duplicates 2.Created a bina
 📍📝Recommendations:•Focus on Campaign quality than Scale •Tailor Campaigns:Singles for lead generation,Married for conversions. •Adopt AI-Driven Personalization: Use AI not just for chat bots, but to predict user needs and offer "next-best-actions",eg.(prompting a high balance checking user to open a savings account)
 🔑Key Metrics:•Channel ROI:Specifically, identifying which channel provides the highest-quality,long-term customers
 📊Dashboard Features:Funnel analysis 2.overall rate conversion rate(20%) 3.Contact channel analysis 4.Monthly performance analysis 5.Previous Campaign outcome analysis 6.Customer segmentation analysis 7.Drop-off analysis 
+🛠Tools used:POWER BI and Data analytical tools(Excel)
